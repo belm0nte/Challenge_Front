@@ -1,4 +1,4 @@
-#Challenge Portfólio
+# Challenge Portfólio
 ---
 
 ### Miro (Guiding Questions):
