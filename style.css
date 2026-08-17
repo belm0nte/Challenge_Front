@@ -123,6 +123,7 @@ button { font-family: inherit; }
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: clamp(16px, 2vw, 48px);
 }
 
 .logo {
