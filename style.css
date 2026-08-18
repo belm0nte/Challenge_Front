@@ -591,6 +591,10 @@ button { font-family: inherit; }
   transform: translateY(-4px);
   border-color: var(--gold);
 }
+.contact-card button,
+button.contact-card {
+  color: inherit;
+}
 .contact-label {
   font-family: var(--font-mono);
   font-size: 0.75rem;
